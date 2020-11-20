@@ -12,6 +12,7 @@ W ramach bloga zrealizowano następujące zagadnienia:
  - QuerySets i menadżery obiektów,
  - praca z plikami views.py, urls.py i szablonami,
  - praca z formularzmi (dodawanie posta, edycja istniejącego posta).
+ 
 Stworzony blog znajduje się pod adresem https://blog-smolenski.herokuapp.com/
  
 ## Lab 2
