@@ -26,4 +26,4 @@ Zrealizowano:
  
  Witryna przed zalogowaniem daje dostęp użytkownikowi tylko do przeglądania postów oraz możliwość zalogowania lub rejestracji
  
- ![niezalogowany]blog/niezalogowany.png)
+ ![niezalogowany](blog/niezalogowany.png)
