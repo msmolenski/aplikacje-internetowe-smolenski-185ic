@@ -24,4 +24,6 @@ Zrealizowano:
  - widok od resetu hasła
  - widok realizujący rejestrację użytkownika.
  
+ Witryna przed zalogowaniem daje dostęp użytkownikowi tylko do przeglądania postów oraz możliwość zalogowania lub rejestracji
  
+ ![niezalogowany]blog/niezalogowany.png)
