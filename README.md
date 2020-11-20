@@ -23,7 +23,31 @@ Zrealizowano:
  - widok od zmiany hasła
  - widok od resetu hasła
  - widok realizujący rejestrację użytkownika.
+ Niestety strony nie udało się umieścić w serwisie Heroku.
  
  Witryna przed zalogowaniem daje dostęp użytkownikowi tylko do przeglądania postów oraz możliwość zalogowania lub rejestracji
  
+ Widok przed zalogowaniem:
  ![niezalogowany](blog/niezalogowany.png)
+ 
+ Widok po zalogowaniu
+ ![pozalogowaniu](blog/pozalogowaniu.png)
+ 
+ Widok logowania
+ ![logowanie](blog/logowanie.png)
+
+ Rejestracji logowania
+ ![rejestracja](blog/rejestracja.png)
+
+ Panel użytkownika z odnośnikami do zmiany i resetu hasła
+ ![profil](blog/profil.png)
+
+ Zmiana hasła
+ ![zmianaHasla](blog/zmianaHasla.png)
+ 
+  Reset hasła
+ ![resetHasla](blog/resetHasla.png)
+ 
+ Mail który zostałby wysłany do użytkownika
+ ![email](blog/email.png)
+ 
