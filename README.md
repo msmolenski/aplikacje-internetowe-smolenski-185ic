@@ -40,7 +40,7 @@ Zrealizowano:
  
  ![logowanie](blog/logowanie.png)
 
- Rejestracji logowania
+ Widok rejestracji
  
  ![rejestracja](blog/rejestracja.png)
 
