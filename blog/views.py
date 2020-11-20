@@ -43,4 +43,3 @@ def post_delete(request, pk):
     post = get_object_or_404(Post, pk=pk)
     post.post_delete()
     return render(request, 'blog/post_list.html', {'posts': posts})
-   

@@ -1,0 +1,13 @@
+{% extends "blog/base.html" %}
+
+{% block title %}Profile{% endblock %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    <form method="POST" class="form-group">
+        {% csrf_token %}
+        {{ form|crispy }}
+        <p style = "font-size:125%;">Swoje hasło zmienisz <a href="/password">tutaj.</a></p>
+        <p style = "font-size:120%;">Nie pamiętasz hasła?<a href="/password-reset">Zresetuj je! <br></a></p>
+    </form>
+{% endblock %}
