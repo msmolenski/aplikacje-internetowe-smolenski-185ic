@@ -23,6 +23,7 @@ Zrealizowano:
  - widok od zmiany hasła
  - widok od resetu hasła
  - widok realizujący rejestrację użytkownika.
+ 
  Niestety strony nie udało się umieścić w serwisie Heroku.
  
  Witryna przed zalogowaniem daje dostęp użytkownikowi tylko do przeglądania postów oraz możliwość zalogowania lub rejestracji
