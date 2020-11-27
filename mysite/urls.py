@@ -21,4 +21,7 @@ urlpatterns = [
         template_name='edit_profile/password_reset_done.html'), name='password_reset_done'),
     path("password-reset-cnofirm/<uidb64>/<token>", auth_views.PasswordResetConfirmView.as_view(
         template_name='edit_profile/password_reset_confirm.html'), name='password_reset_confirm'),
+
+    #path('oauth/', include('social_django.urls', namespace='social')),
+    path('accounts/', include('allauth.urls')), 
 ]

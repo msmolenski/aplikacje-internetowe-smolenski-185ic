@@ -1,5 +1,5 @@
 {%extends "blog/base.html" %}
-
+{% load socialaccount %}
 {% block title %}Zaloguj{% endblock %}
 {% load crispy_forms_tags %}
 
@@ -8,6 +8,8 @@
         {% csrf_token %}
         {{ form|crispy }}
         <p>Nie masz konta?<a href="/register">Załóż je!</a></p>
+        <p>Lub zaloguj się swoim <a href="{% provider_login_url 'github' %}">GitHubem</a> 
+        lub <a href="{% provider_login_url 'facebook' %}">Facebookiem</a></p>
         <button type="submit" class="btn btn-success">Zaloguj</button>
     </form>
 {% endblock %}
