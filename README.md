@@ -30,33 +30,51 @@ Zrealizowano:
  
  Widok przed zalogowaniem:
  
- ![niezalogowany](blog/niezalogowany.png)
+ ![niezalogowany](blog/images/niezalogowany.png)
  
  Widok po zalogowaniu
  
- ![pozalogowaniu](blog/pozalogowaniu.png)
+ ![pozalogowaniu](blog/images/pozalogowaniu.png)
  
  Widok logowania
  
- ![logowanie](blog/logowanie.png)
+ ![logowanie](blog/images/logowanie.png)
 
  Widok rejestracji
  
- ![rejestracja](blog/rejestracja.png)
+ ![rejestracja](blog/images/rejestracja.png)
 
  Panel użytkownika z odnośnikami do zmiany i resetu hasła
  
- ![profil](blog/profil.png)
+ ![profil](blog/images/profil.png)
 
  Zmiana hasła
  
- ![zmianaHasla](blog/zmianaHasla.png)
+ ![zmianaHasla](blog/images/zmianaHasla.png)
  
   Reset hasła
   
- ![resetHasla](blog/resetHasla.png)
+ ![resetHasla](blog/images/resetHasla.png)
  
  Mail który zostałby wysłany do użytkownika
  
- ![email](blog/email.png)
+ ![email](blog/images/email.png)
  
+## Lab 3
+W ramach laboratiorów rozbudowano poprzednią aplikację o funkcję logowania poprzez konta z serwisów: Facebook i GitHub.
+
+Zaktualizowany blog znajduje się pod adresem https://blog-smolenski.herokuapp.com/
+
+Widok logowania
+ 
+![login](blog/images/login.png)
+
+Widok logowania poprzez Facebooka
+ 
+![login](blog/images/facebook_login1.png)
+
+![login](blog/images/facebook_login2.png)
+
+Widok logowania poprzez GitHuba
+ 
+![login](blog/images/github_heroku.png)
