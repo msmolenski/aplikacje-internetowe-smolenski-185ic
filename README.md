@@ -16,9 +16,47 @@ W ramach bloga zrealizowano następujące zagadnienia:
 Stworzony blog znajduje się pod adresem https://blog-smolenski.herokuapp.com/
  
 ## Lab 2
-W ramach laboratiorów wykorzystano wbudowane widoki uwierzytelniające Django.
+W ramach laboratiorów rozbudowano poprzednią aplikację o funkcję logowania, rejestracji oraz zaminy i resetu hasła.
+
 Zrealizowano:
  - widoki ‘login’ i ‘logout’
  - widok od zmiany hasła
  - widok od resetu hasła
- - widok realizujący rejestrację usera (signup).
+ - widok realizujący rejestrację użytkownika.
+ 
+ Niestety strony nie udało się umieścić w serwisie Heroku.
+ 
+ Witryna przed zalogowaniem daje dostęp użytkownikowi tylko do przeglądania postów oraz możliwość zalogowania lub rejestracji
+ 
+ Widok przed zalogowaniem:
+ 
+ ![niezalogowany](blog/niezalogowany.png)
+ 
+ Widok po zalogowaniu
+ 
+ ![pozalogowaniu](blog/pozalogowaniu.png)
+ 
+ Widok logowania
+ 
+ ![logowanie](blog/logowanie.png)
+
+ Widok rejestracji
+ 
+ ![rejestracja](blog/rejestracja.png)
+
+ Panel użytkownika z odnośnikami do zmiany i resetu hasła
+ 
+ ![profil](blog/profil.png)
+
+ Zmiana hasła
+ 
+ ![zmianaHasla](blog/zmianaHasla.png)
+ 
+  Reset hasła
+  
+ ![resetHasla](blog/resetHasla.png)
+ 
+ Mail który zostałby wysłany do użytkownika
+ 
+ ![email](blog/email.png)
+ 
