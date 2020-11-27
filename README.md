@@ -67,14 +67,14 @@ Zaktualizowany blog znajduje się pod adresem https://blog-smolenski.herokuapp.c
 
 Widok logowania
  
-![login](blog/images/login.png)
+![login](blog/images/login.bmp)
 
 Widok logowania poprzez Facebooka
  
-![login](blog/images/facebook_login1.png)
+![facebook_login1](blog/images/facebook_login1.bmp)
 
-![login](blog/images/facebook_login2.png)
+![facebook_login2](blog/images/facebook_login2.bmp)
 
 Widok logowania poprzez GitHuba
  
-![login](blog/images/github_heroku.png)
+![github_login](blog/images/github_heroku.bmp)
